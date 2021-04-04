@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sejesila
+- 👋 Hi, I’m Silas Seje
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on a project on image encryption using AES algorithm
