@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Silas Seje
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning VueJs framework
-- 💞️ I’m looking to collaborate on a project on image encryption using AES algorithm
+- 💞️ I’m looking to joining a vibrant team of product developers so we can build amazing stuff together
 - 📫 How to reach me @silaseje5@gmail.com
 
 <!---
