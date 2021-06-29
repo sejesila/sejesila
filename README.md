@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silas Seje
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning VueJs framework
+- 🌱 I’m currently working on a School Management System using Laravel
 - 💞️ I’m looking to joining a vibrant team of product developers so we can build amazing stuff together
 - 📫 How to reach me @silaseje5@gmail.com
 
