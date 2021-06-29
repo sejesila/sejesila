@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from Kenya
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using Laravel and VueJS
 - 🌱 Learning design patterns in depth
 <br>
 
