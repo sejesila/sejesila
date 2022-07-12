@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software developer from Kenya
-- 🔭 Working on a school management system project using Laravel and VueJS
+- 🔭 I enjoy creating solutions using PHP/Laravel and Javascript/VueJS
 - 🌱 Learning design patterns in depth
 <br>
 
